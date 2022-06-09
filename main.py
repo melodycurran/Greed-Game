@@ -23,7 +23,7 @@ COLS = 60
 ROWS = 40
 CAPTION = "The Greed Game"
 WHITE = Color(255, 255, 255)
-DEFAULT_GEMS_AND_STONES = 2
+DEFAULT_GEMS_AND_STONES = 40
 
 
 def main():
